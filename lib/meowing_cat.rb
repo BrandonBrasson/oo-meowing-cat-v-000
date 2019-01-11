@@ -3,7 +3,7 @@ class cat
   attr_accessor :cat
 
   def cat(name)
-  Maru = @name
+  Maru = name
   puts "meow"
   end
 
