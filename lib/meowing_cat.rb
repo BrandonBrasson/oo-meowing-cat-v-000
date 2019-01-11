@@ -3,8 +3,9 @@ class cat
   attr_accessor :cat
 
   def cat(name)
-  Maru = name
+  if Maru = name
   puts "meow"
   end
+end
 
 end
