@@ -5,5 +5,6 @@ class cat
 
   def meowing
     puts "cat"
+end
 
 end
