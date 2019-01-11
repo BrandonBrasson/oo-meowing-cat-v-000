@@ -3,7 +3,7 @@ class cat
   attr_accessor :cat
 
   def mwo(name)
-  puts "xat"
+  puts "cat"
   end
 
 
