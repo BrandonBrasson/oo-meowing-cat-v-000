@@ -6,3 +6,5 @@ class cat
   Maru = @name
   puts "meow"
   end
+
+end
