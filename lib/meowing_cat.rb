@@ -3,7 +3,8 @@ class cat
   attr_accessor :cat
 
   def mwo(name)
-  puts "cat"
+    maru = Cat.new
+    maru.name = "Maru"
   end
 
 
