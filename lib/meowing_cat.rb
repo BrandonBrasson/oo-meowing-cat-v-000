@@ -2,8 +2,8 @@
 class cat
   attr_accessor :cat
 
-  def cat(name)
-  puts "meow"
+  def mwo(name)
+  puts "xat"
   end
 
 
